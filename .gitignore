@@ -1,0 +1,5 @@
+#.python cacheファイルの除外
+*.pyc
+
+#mac 由来
+.DS_store
