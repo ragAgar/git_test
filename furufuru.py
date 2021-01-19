@@ -1,3 +1,5 @@
+#python3
+
 import pyautogui as pgui
 import numpy as np
 import time
